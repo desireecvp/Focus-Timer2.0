@@ -1,0 +1,11 @@
+export const controls = document.getElementById('controls')
+export const minutes = document.getElementById('minutes')
+export const seconds = document.getElementById('seconds')
+export const playButton = document.getElementById('playButton')
+export const pauseButton = document.getElementById('pauseButton')
+
+export const sounds = document.getElementById('sounds')
+export const forestButton = document.getElementById('forest')
+export const rainButton = document.getElementById('rain')
+export const coffeeButton = document.getElementById('coffeeshop')
+export const fireButton = document.getElementById('fireplace')
